@@ -5,6 +5,7 @@ Second, install macOS on Lenovo T480 to dual-boot between Windows and macOS to b
 
 - [x] Install software downloaders (Windows Store, chocolatey, winget)
 - [x] Install python install manager on Windows Store
+  - [ ] Install jupyter notebook, etc.
 - [x] Install Microsoft Office
 - [x] Install Powertoys
 
