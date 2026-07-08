@@ -1,9 +1,12 @@
+First, set up automation scripts for setting up Windows after a factory reset.
+Second, install macOS on Lenovo T480 to dual-boot between Windows and macOS to be able to use specific statistics applications, etc. and create desktop application versions for both platforms.
+
 ## Windows
 
 - [x] Install software downloaders (Windows Store, chocolatey, winget)
 - [x] Install python install manager on Windows Store
-- [ ] Install Microsoft Office
-- [ ] Install Powertoys
+- [x] Install Microsoft Office
+- [x] Install Powertoys
 
 **Powershell script to re-set up Windows after every reset**
 
